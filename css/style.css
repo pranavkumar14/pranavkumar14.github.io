@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    background-image: linear-gradient(rgba(192, 52, 52, 0.685),black);
+    background-color: rgba(0, 0, 0, 0.842);
+    height: 34.5rem;
+}
+header>section {
+    color: blanchedalmond;
+    display: inline-block !important;
+    width: 45%;
+    margin: 10px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 30px;
+  }
+section img{
+    border-radius: 300px;
+    padding: 30px;
+    margin-top: 10%;
+}
+main{
+    margin: 0% 5%;
+    display: flex;
+    flex-direction: column;
+    line-height: 2.6rem;
+    padding: 1.5rem;
+}
+main >section{
+    margin: 2rem 0rem;
+}
+section h2{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: blue;
+
+}
+div >h3{
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+    margin-top: 1.5rem;
+}
+div >p{
+    font-size: 1.3rem;
+}
+.time{
+    font-style: italic;
+}
+
+

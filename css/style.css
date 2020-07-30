@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,6 +11,44 @@ header{
     background-color: rgba(0, 0, 0, 0.842);
     height: 34.5rem;
 }
+
+nav ul {
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+}
+nav h1{
+    display: inline-block;
+    padding: 1.2rem;
+    text-transform: uppercase;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+
+
+}
+li{
+    float: right;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+    color: wheat;
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
 header>section {
     color: blanchedalmond;
     display: inline-block !important;

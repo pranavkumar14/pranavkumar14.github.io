@@ -16,6 +16,7 @@ nav ul {
     list-style-type: none;
     position: fixed;
     width: 100%;
+    background-color:rgb(133, 36, 34);
 }
 nav h1{
     display: inline-block;
@@ -95,5 +96,11 @@ div >p{
 /* .time{
     font-style: italic;
 } */
-
+#education h2{
+    text-align: left ;
+    margin-top: 0;
+}
+/* footer{
+    background-image: linear-gradient(rgba(192, 52, 52, 0.685),black);
+} */
 

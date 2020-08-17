@@ -78,6 +78,8 @@ section h2{
     font-weight: bolder;
     text-transform: uppercase;
     color: blue;
+    text-align: center;
+    margin-top: 8%;
 
 }
 div >h3{
@@ -90,8 +92,8 @@ div >h3{
 div >p{
     font-size: 1.3rem;
 }
-.time{
+/* .time{
     font-style: italic;
-}
+} */
 
 

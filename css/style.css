@@ -51,18 +51,21 @@ li a {
     background-color: #4CAF50;
   }
 header>section {
+    float: left;
+    margin-top: 30px;
+    padding-top: 10%;
     color: blanchedalmond;
-    display: inline-block !important;
-    width: 45%;
+    /* display: inline-block !important; */
+    width: 55%;
     margin: 10px;
     text-align: center;
     line-height: 45px;
     font-size: 30px;
   }
 section img{
-    border-radius: 300px;
-    padding: 30px;
-    margin-top: 10%;
+    border-radius: 300%;
+    /* padding: 30px; */
+    /* margin-top: 10%; */
 }
 main{
     margin: 0% 5%;

@@ -1,0 +1,16 @@
+@media screen and (max-width: 950px) {
+    html{
+        font-size: 85%;
+    }
+    .header{
+        flex-direction: column;
+        text-align: center;
+    }
+    header > section{
+        width: 100%;
+    } 
+    section img{
+        width: 70%;
+    }
+    
+}

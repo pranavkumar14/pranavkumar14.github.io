@@ -1,6 +1,6 @@
 # pranavkumar14.github.io
 
-I used the VS Code for writing the code and deployed the site with GitHub Pages.
+I used VS Code for writing the code and deployed the website on GitHub Pages.
 Few things I learnt here are :
 * Before you start with the coding, you must have an outline of how the final site may look like.
 * Take a course before building the site. Although, you can also do it along with the course.

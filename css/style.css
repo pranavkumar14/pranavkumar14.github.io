@@ -27,7 +27,7 @@ bold{
     width: 100%;
     background-color:rgb(133, 36, 34);
 } */
-a {
+.head_link {
     display: block;
     /* text-align: center;
     padding: 1.5rem; */
@@ -124,4 +124,8 @@ footer{
 footer ul li{
     padding-right: 1.5rem;
 }
+.link{
+    text-decoration: none;
+    color: darkblue;
 
+}
